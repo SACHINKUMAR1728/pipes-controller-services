@@ -1,0 +1,43 @@
+{
+  "1": {
+    "name": "John Doe",
+    "age": 12,
+    "role": "student"
+  },
+  "2": {
+    "name": "Jane Smith",
+    "age": 14,
+    "role": "student"
+  },
+  "3": {
+    "name": "Alice Johnson",
+    "age": 16,
+    "role": "student"
+  },
+  "4": {
+    "name": "Bob Brown",
+    "age": 15,
+    "role": "student"
+  },
+  "5": {
+    "name": "sachin",
+    "age": 32,
+    "email": "sachin@gmial.com",
+    "id": "5"
+  },
+  "6": {
+    "name": "mohit",
+    "age": 33,
+    "email": "mohit@gmial.com"
+  },
+  "7": {
+    "name": "mohit",
+    "age": 33,
+    "email": "mohit@gmial.com"
+  },
+  "8": {
+    "name": "mohit",
+    "age": 33,
+    "email": "mohit@gmial.com"
+  }
+}
